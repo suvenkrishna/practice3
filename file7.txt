@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-this is seventh file... modifing the file7
-=======
-this is seventh file
-testing from firstbranch
->>>>>>> firstbranch
